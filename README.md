@@ -13,7 +13,7 @@ Only double option exists in editor, and it can't be edited midplay.
 This plugin means to enable you to increase or decrease droprates together or separately with gold rate, depending on the actors in your party at the end of the battle.  
 
 
-Notetags:
+Notetags:  
 ```<ME_CDR: X>```  
 When applied to an actor, the actor will have X droprate percent by default. If not set, it defaults to 100.  
 ```<ME_CDR: 120> //Makes the actor have 20% extra droprate```  
